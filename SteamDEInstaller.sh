@@ -2,6 +2,10 @@
 mkdir SteamDEInstaller
 cd SteamDEInstaller
 
+#ensure that openbox is installed
+
+sudo apt install openbox
+
 #get the main files
 
 wget https://github.com/WildTom1/Steam-BigPicture-DE/raw/main/SteamBigPicture.sh
