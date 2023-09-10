@@ -5,7 +5,7 @@ This is a script that will make a listing for a steam big picture desktop enviro
 
 **Before Using**
 
-Before you install, you need openbox and Steam installed
+Before you install, you need openbox, pulseaudio, and Steam installed
 
 **KNOWN ISSUES**
 
